@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Cliente" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="main.java.cliente.Cliente" />
+    <module name="juego" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
