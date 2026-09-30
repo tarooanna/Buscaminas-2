@@ -1,5 +1,7 @@
 # Buscaminas multijugador con TCP
 
+Integrantes: Anna Sophia Caicedo y Juan Camilo Borrero 
+
 Proyecto de IntelliJ IDEA. El código está en `juego/src/main/java`, separado en
 `servidor` y `cliente`.
 
